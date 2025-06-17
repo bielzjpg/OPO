@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "streamlit-financas",
+  "private_key_id": "c359e2eff60900bed631224f019f00fc795dc085",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDSSd6naxc3I8ga\nN8datKZgCHXZJndN8SYwhR+M7paqjKKvRQ6GZUUIZ9Uq8iacWt03itRSBxe30XWz\np1bTfRsi2juaqPsd8PX420gkPbhO1wDuwfVp6vT6f/XFGjWya99C0U0y97WZhk5j\n/Hy/ZBIFMdqMsyTR7Bdwn62jX32+qC7/TTechRG7kRIDEM9+t0Q7xDtvVECLm5Z2\nMlW5Kqvo4R88ncPnyUid6re6hDXfRG8IN2HkBIyMQLHhlfV0yfZxiKjTq94LqTp/\ncWRnNzzYIzl1/KsXTIJQwiK8f0X6+dZ9T4y8PhQDfWxp9ihpeJtk52y+s3L4If6Q\n2kUkkeRbAgMBAAECggEADNQ63cXeKoJnujAkj/d50V2fkVOtompC2GG9IgQjc8L7\nep8UGsWudEVslZ+LFK2qb0s5I5cqyEKvRpPzHrK0NBuFciyhXU51AyCfNXuadRzc\naE4aIo/iycfpGFELOf5aWYfOInzgOr4dDDAijPgvug3N9bJI915kgH3aKJ+YjhTP\nFPZgfyNMXLmReI+iIJsEB3mOPxwfCTSFFdlp8yydOZDI8I8Q/Qc5gYbtCR/rNM23\nZdUtRpQ6kduCDEThxvcWB4eC2WwldZOa/stF6sSABTzLbes7dJgXM1TyHWYdX4lF\nIo8i/WKhV9k1C6qBmpvy4MGHcUuo+b0eiZAxsTT/MQKBgQDvDRgY9MBCr2Gl31JO\n20uGNNYEicWqNs6SQ02C8ZZwdhccQ+LSb1ySbvk9Fr8lc7mrHTY//P/oN0RjioGd\nvbsRFlj0rNqDg/jFtNblqtiSq5jga/SYrILzSgF7RtYv6tcTXeVdWHlO0gKYmPr4\nwNj9ixCN/pomYDNDP6NcoRNsyQKBgQDhMrgbKjIgCuV04/b7qSye1tiKEOGFVHU6\nI36105fX76UI3aiSApxduWjyR92hSKoC4x4hayq6wxwyy+Kj+Gos/ZsLAStLy6h6\n4xIoZZI7/AFv5yuYxgTgFd3mRoH98k7zSIeNT+sdhbtp5SqJksenluPunXpwbJDv\n+2hPMK+uAwKBgFaSUWXITVBZH23owHAabvF9dPxTwKfyDUFe6lU/lJHJ0njEBQLc\nnZPSaKS89iBkFptnitwFjc/VJAlAgcxUh8iaZUDG0KPMSW2gHisyghgr2MN9lSkt\nYIcnB/5TGwJjc9xppsT1Y4kt+Q62aD1p6at4j1g9GipHsIjsJQdItjYxAoGBAIXK\ntEavUwhmcNx5c4sgfzn/OrcMQHAONXdND0LHazcHUW1rA3N7yZqFRSxsNehUW21L\nseL44HIE6QPkzcnNFIeWRD7NewOVA4u+zFLjxXWNyuzI0sX5H3xigWsGCMTu6Kjx\nNldmW7E2epn3ZMZHRgbzRofFV7DjT1jEbLxfmIAxAn8gMqDY90578s8G8HO4NeiO\nIkN9u07nx5Fwk0ih+P4q/wcQtIbMO0NwyzV1MZOu5zbxhyolLirgDRvZW79wdgWz\ngzN/lISbywvhhY2Q6tXTuC6Iax/YPniISVYUeg7bjIecleXYpSnGUXgl8QQT65xe\njOyYOGCeVCjk0hBmxh0s\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-access@streamlit-financas.iam.gserviceaccount.com",
+  "client_id": "101953296058703409125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-access%40streamlit-financas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
